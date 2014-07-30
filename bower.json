@@ -1,0 +1,16 @@
+{
+  "name": "compass-stylesheets",
+  "version": "1.0.0",
+  "authors": [
+    "drudim <drudim.ua@gmail.com>",
+    "kott <kottenator@gmail.com>"
+  ],
+  "description": "Compass mixins",
+  "main": "libs/_compass.scss",
+  "keywords": [
+    "compass",
+    "sass"
+  ],
+  "license": "MIT",
+  "private": true
+}
